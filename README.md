@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Namzz28
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I'm efficient in Python, SQL and Excel
+-  I also have hands-on experience in Data Preprocessing, Data Manipulation and Data Visulization
+-  I’m currently learning Machine Learning; Artificial Nueral Networks and Deep Learning
 - 📫 How to reach me- Contact me on namanpathela28@gmail.com
 
 <!---
