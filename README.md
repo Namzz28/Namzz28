@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems
 - 🌱 I'm efficient in Python, SQL and Excel
 -  I also have hands-on experience in Data Preprocessing, Data Manipulation and Data Visulization
--  I’m currently learning Machine Learning; Artificial Nueral Networks and Deep Learning
+-  I’m currently learning Machine Learning; Artificial Neural Networks and Deep Learning
 - 📫 How to reach me- Contact me on namanpathela28@gmail.com
 
 <!---
